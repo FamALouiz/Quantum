@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 pennylane = "*"
+jupyterlab = "*"
+matplotlib = "*"
 
 [dev-packages]
 
